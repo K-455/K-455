@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @K-455
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-K-455/K-455 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+cd fredagsproject1.git
+git remote set-url --push origin https://path2.com/_git/fredagsproject2
+git push --mirror
 <button>Like</button>
+https://gitee.com/llpdev/test.git
+git clone https://gitee.com/llpdev/test.git
+git push --mirror https://gitee.com/
+git clone --bare git@code.aliyun.com:
